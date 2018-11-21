@@ -12,10 +12,15 @@ Riashat Islam <br></b>
 ---
 
 ## Notebooks
-[1- Environment and Buy and Hold Benchmark](https://github.com/tawjaw/AlgoTradingML/blob/master/1-%20Environment%20and%20Buy%20and%20Hold%20Benchmark.ipynb)
+
+[1- Trading Environment and Buy and Hold Benchmark](https://github.com/tawjaw/AlgoTradingML/blob/master/1-%20Environment%20and%20Buy%20and%20Hold%20Benchmark.ipynb)
+
 [2- Extracting Data for Learning](https://github.com/tawjaw/AlgoTradingML/blob/master/2-%20Extracting%20Data%20for%20Learning.ipynb)
+
 [3- Exploring TSLA](https://github.com/tawjaw/AlgoTradingML/blob/master/3-%20Exploring%20TSLA.ipynb)
+
 [4- Regime Detection with GMM](https://github.com/tawjaw/AlgoTradingML/blob/master/4-%20Regime%20Detection%20with%20GMM.ipynb)
+
 ---
 ## Installation
 The trading environment will be used for backtesting is [Zipline](https://github.com/quantopian/zipline) which is an open source Python algorithmic trading library. Zipline is used as the backtesting and live-trading engine powering [Quantopian](https://www.quantopian.com/home).
