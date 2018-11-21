@@ -9,7 +9,6 @@ Instructors:<br>
 Audrey Durand<br>
 Riashat Islam <br></b>
 
----
 
 ## Notebooks
 
@@ -21,7 +20,6 @@ Riashat Islam <br></b>
 
 [4- Regime Detection with GMM](https://github.com/tawjaw/AlgoTradingML/blob/master/4-%20Regime%20Detection%20with%20GMM.ipynb)
 
----
 ## Installation
 The trading environment will be used for backtesting is [Zipline](https://github.com/quantopian/zipline) which is an open source Python algorithmic trading library. Zipline is used as the backtesting and live-trading engine powering [Quantopian](https://www.quantopian.com/home).
 
