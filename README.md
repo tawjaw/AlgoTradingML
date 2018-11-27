@@ -22,6 +22,12 @@ Riashat Islam <br></b>
 
 [5- SMA Optimization](https://github.com/tawjaw/AlgoTradingML/blob/master/5-%20SMA%20Optimization.ipynb)
 
+[6- SE-MA Optimization](https://github.com/tawjaw/AlgoTradingML/blob/master/6-%20SE-MA%20Optimization.ipynb)
+
+[7- MA with GMM Risk Manager](https://github.com/tawjaw/AlgoTradingML/blob/master/7-%20MA%20with%20GMM%20Risk%20Manager.ipynb)
+
+[8- Price Movement Classifiers](https://github.com/tawjaw/AlgoTradingML/blob/master/8-%20Price%20Movement%20Classification.ipynb)
+
 ## Installation
 The trading environment will be used for backtesting is [Zipline](https://github.com/quantopian/zipline) which is an open source Python algorithmic trading library. Zipline is used as the backtesting and live-trading engine powering [Quantopian](https://www.quantopian.com/home).
 
